@@ -10,5 +10,5 @@
 - 🌱 I’m currently learning Rust, Docker, CI/CD, and AWS
 - 📫 How to reach me: mr.ikunegbu@gmail.com
 - ☎️ Whatsapp me +2348064133376
-- ⚡ Fun fact: ...
+
 
